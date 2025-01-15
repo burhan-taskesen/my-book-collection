@@ -11,3 +11,7 @@
     
 ## SQL
     * Learning SQL: Generate, Manipulate, and Retrieve Data 3rd Edition ✅ 
+
+## Elastic Search
+    * Elastic Search in Action : Second Edition 🔄
+   
